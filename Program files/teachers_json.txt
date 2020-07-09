@@ -1,0 +1,20 @@
+[
+  {
+    "Fname": "Radoslav",
+    "Surname": "Todorov",
+    "Age": 33,
+    "PersonalNum": "8701296704",
+    "Gender": "Male",
+    "Birthday": "1987-01-29T00:00:00",
+    "Subject": "Maths"
+  },
+  {
+    "Fname": "Kristina",
+    "Surname": "Krusteva",
+    "Age": 30,
+    "PersonalNum": "9007303875",
+    "Gender": "Female",
+    "Birthday": "1990-07-30T00:00:00",
+    "Subject": "Physics"
+  }
+]

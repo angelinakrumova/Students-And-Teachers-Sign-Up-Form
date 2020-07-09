@@ -1,0 +1,20 @@
+[
+  {
+    "Fname": "Antoaneta",
+    "Surname": "Hristova",
+    "Age": 31,
+    "PersonalNum": "8901214792",
+    "Gender": "Female",
+    "Birthday": "1989-01-21T00:00:00",
+    "FacNum": "234444"
+  },
+  {
+    "Fname": "Martin",
+    "Surname": "Dimitrov",
+    "Age": 31,
+    "PersonalNum": "8901295367",
+    "Gender": "Male",
+    "Birthday": "1989-01-29T00:00:00",
+    "FacNum": "234567890"
+  }
+]
